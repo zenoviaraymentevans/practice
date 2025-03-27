@@ -1,21 +1,61 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
-    "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "github_org": "zenoviaraymentevans",
+    "is_private": false,
+    "title": "Practice AV",
+    "description": "ewowagoahfoiejfiowq",
+    "language": "en",
+    "slug": "practice",
+    "creator": "zenoviaraymentevans",
+    "authors": "Piper Rayment-Evans",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [
+        {
+          "category": "Performance",
+          "color": "#ADFFD9"
+        },
+        {
+          "category": "Transcription",
+          "color": "#ADFEFF"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Pitch",
+          "category": "Performance"
+        },
+        {
+          "tag": "Tempo",
+          "category": "Performance"
+        },
+        {
+          "tag": "Volume",
+          "category": "Performance"
+        },
+        {
+          "tag": "Amplitude",
+          "category": "Performance"
+        },
+        {
+          "tag": "Title",
+          "category": "Transcription"
+        },
+        {
+          "tag": "Poem",
+          "category": "Transcription"
+        }
+      ]
+    },
+    "created_at": "2025-03-27T17:39:47.656Z",
+    "updated_at": "2025-03-27T17:39:47.656Z"
   }
 }
