@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "zenoviaraymentevans",
+      "avatar_url": "https://avatars.githubusercontent.com/u/200672177?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "zenoviaraymentevans",
     "is_private": false,
@@ -56,6 +62,7 @@
       ]
     },
     "created_at": "2025-03-27T17:39:47.656Z",
-    "updated_at": "2025-03-27T17:42:08.541Z"
+    "updated_at": "2025-03-27T17:42:08.541Z",
+    "generate_pages_site": true
   }
 }
